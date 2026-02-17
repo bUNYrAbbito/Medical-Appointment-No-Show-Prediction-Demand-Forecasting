@@ -2,3 +2,8 @@
 data/
 datasets/
 models/
+*.csv
+data/
+datasets/
+*.pkl
+*.joblib
