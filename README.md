@@ -4,7 +4,10 @@ A machine learning project that predicts whether a patient is likely to
 miss a scheduled medical appointment. The project uses patient
 demographics, appointment details, health indicators, and available
 environmental information to estimate no-show risk.
-<a href="https://marketing-campaign-analysis-aktzwcky3stup7rw2qcik.streamlit.app/"> 
+
+You can check out the [Live Demo](https://marketing-campaign-analysis-aktzwcky3stup7rw2qcik.streamlit.app/) here!
+
+
 ## Project Objective
 
 Patient no-shows can waste appointment slots and make clinic planning
