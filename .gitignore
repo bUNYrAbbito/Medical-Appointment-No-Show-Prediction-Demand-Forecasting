@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -26,3 +27,14 @@ Thumbs.db
 
 # IDE
 .vscode/
+=======
+*.csv
+data/
+datasets/
+models/
+*.csv
+data/
+datasets/
+*.pkl
+*.joblib
+>>>>>>> e847a0bb8613dbdad42a0dd99149144f2705a268

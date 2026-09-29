@@ -2,7 +2,15 @@ pandas
 numpy
 scikit-learn
 xgboost
+<<<<<<< HEAD
 joblib
 streamlit
 matplotlib
 seaborn
+=======
+lightgbm
+streamlit
+matplotlib
+seaborn
+joblib
+>>>>>>> e847a0bb8613dbdad42a0dd99149144f2705a268
